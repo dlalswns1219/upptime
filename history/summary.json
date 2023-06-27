@@ -4,18 +4,20 @@
     "url": "https://fresh.haccp.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/fresh.haccp.or.kr.ico",
     "slug": "fresh",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1244,
-    "timeWeek": 1244,
-    "timeMonth": 1244,
-    "timeYear": 1244,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
+    "time": 1143,
+    "timeDay": 1143,
+    "timeWeek": 1143,
+    "timeMonth": 1143,
+    "timeYear": 1143,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   },
   {
     "name": "haccp",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/haccp.or.kr.ico",
     "slug": "haccp",
     "status": "down",
-    "uptime": "25.09%",
-    "uptimeDay": "25.09%",
-    "uptimeWeek": "25.09%",
-    "uptimeMonth": "25.09%",
-    "uptimeYear": "25.09%",
-    "time": 2497,
-    "timeDay": 2497,
-    "timeWeek": 2497,
-    "timeMonth": 2497,
-    "timeYear": 2497,
+    "uptime": "1.00%",
+    "uptimeDay": "1.00%",
+    "uptimeWeek": "1.00%",
+    "uptimeMonth": "1.00%",
+    "uptimeYear": "1.00%",
+    "time": 1763,
+    "timeDay": 1763,
+    "timeWeek": 1763,
+    "timeMonth": 1763,
+    "timeYear": 1763,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 7
     }
   }
 ]
